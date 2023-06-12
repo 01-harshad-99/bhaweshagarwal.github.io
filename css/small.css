@@ -1,0 +1,30 @@
+/* --------------------------------------------- */
+/* @media (max-width: 600px) {
+    .container {
+        width: 100%;
+        margin: 0;
+    }
+    .hero img {
+        border-radius: 0;
+    }
+  } */
+/* --------------------------------------------- */
+
+.container {
+    width: 100%;
+    margin: 0;
+}
+
+.hero img {
+    border-radius: 0;
+}
+
+aside.right, aside.left {
+    text-align: center;
+    float: inherit;
+}
+
+/* for giving some space in the unicorn part text */
+/* aside.align {
+    margin-left: 87px;
+} */
