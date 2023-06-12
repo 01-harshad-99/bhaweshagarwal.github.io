@@ -13,7 +13,7 @@ h1 {
 
 
 body {
-  background: url('../images/space-background.png');
+  background-image: url('../images/space-background.png');
   font-family: 'Open Sans', arial, sans-serif;
 
   /* Full Page Background Receipe */
